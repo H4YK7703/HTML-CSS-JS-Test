@@ -1,1 +1,13 @@
 ::backdrop = #FFFFFF
+h1 {
+    font-size: 24px;
+    line-height: 32px;
+}
+
+/**
+ * Main site `h1`
+ */
+.site-title {
+    font-size: 36px;
+    line-height: 48px;
+}
